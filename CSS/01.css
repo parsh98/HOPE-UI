@@ -1,0 +1,74 @@
+* {
+  font-family: 'Inter', sans-serif;
+}
+
+.frame {
+  width: 175px;
+  height: 175px;
+}
+.marto {
+  margin-top: 4rem;
+}
+.logo {
+  width: 28px;
+  height: 28px;
+}
+.graphic {
+  width: 50vw;
+  height: 100vh;
+}
+.graphic2 {
+  width: 58.3vw;
+  height: 100vh;
+}
+.logo-h {
+  font-weight: 300;
+  font-size: 33px;
+}
+.signin {
+  font-weight: 600;
+  font-size: 33px;
+  line-height: 130%;
+}
+
+.inp-flds {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 175%;
+  color: #8a92a6;
+}
+.btm-p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 175%;
+
+  color: #232d42;
+}
+.icons {
+  width: 40px;
+  height: 40px;
+}
+.input {
+  border: 1px solid #3a57e8;
+}
+.frame2 {
+  right: 0;
+  top: 0;
+}
+.austin {
+  font-weight: 500;
+  font-size: 33px;
+  line-height: 130%;
+  color: #232d42;
+}
+.astn-img {
+  width: 134px;
+  height: 110px;
+  filter: drop-shadow(0px 2px 6px rgba(0, 32, 71, 0.1));
+}
+.rst-pwd {
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 48px;
+  color: #04040b;
+}
